@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "project_type": "greenfield",
+  "current_section": "complete",
+  "completed_sections": ["product", "guidelines", "tech_stack", "workflow", "styleguides", "performance", "secops", "observability"]
+}

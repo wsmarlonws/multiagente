@@ -1,0 +1,23 @@
+{
+  "id": "todo-api_20260209",
+  "title": "API REST de Tarefas (Todo-List)",
+  "type": "feature",
+  "status": "complete",
+  "current_phase": 4,
+  "current_task": "4.5",
+  "commits": [
+    "22a49db: feat: estrutura inicial do projeto com FastAPI e Docker",
+    "e0cda55: feat: banco de dados, modelo de tarefas e migração Alembic",
+    "4cde05c: feat: schemas Pydantic e endpoints CRUD de tarefas"
+  ],
+  "created": "2026-02-09T20:30:00Z",
+  "updated": "2026-02-09T20:45:00Z",
+  "phases": {
+    "total": 4,
+    "completed": 4
+  },
+  "tasks": {
+    "total": 20,
+    "completed": 20
+  }
+}
